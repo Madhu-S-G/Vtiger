@@ -10,6 +10,7 @@ public class demo {
 
 		System.out.println(" Today Elections In TamilNadu");
 		
+		System.out.println(" Hii Good Afternoon ");
 		
 	}
 
